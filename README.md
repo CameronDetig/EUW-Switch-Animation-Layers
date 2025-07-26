@@ -1,5 +1,5 @@
 # EUW-Switch-Animation-Layers
-Makes switching between animation layers in sequencer easier by making it a single button.
+This is a tool that makes switching between animation layers in Unreal Engine's sequencer easier by requiring a single button press. Useful for working with motion capture on metahumans as the sequencer can require lots of scrolling up and down to switch between animation layers. 
 
 ![Switch_Layers_UI](https://github.com/user-attachments/assets/548e5fb9-7fca-4b33-8da5-305ea8f72857)
 
